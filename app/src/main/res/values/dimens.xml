@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 首页底部菜单栏高度 -->
+    <dimen name="height_live_main_bottom_bar">51dp</dimen>
+    <!-- 首页底部菜单栏图片宽度 -->
+    <dimen name="width_live_main_bottom_tab_image">25dp</dimen>
+    <!-- 首页底部菜单栏图片高度 -->
+    <dimen name="height_live_main_bottom_tab_image">25dp</dimen>
+</resources>
